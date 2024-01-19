@@ -23,3 +23,8 @@ complex features for modern web applications
 ## Join the Second Member at the meeting
 ![Screenshot (453)](https://github.com/Arjunan1234/videocall-django/assets/63443618/dbf409bd-d31f-4128-9862-499d98b77383)
 
+# How to Run this Project
+```
+git clone https://github.com/Arjunan1234/videocall-django.git
+python manage.py runserver
+```
